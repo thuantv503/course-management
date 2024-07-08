@@ -14,4 +14,4 @@ For your reference, we have prepared the ER diagram design for the new assesemen
 
 ![Onlinecourse ER Diagram](https://github.com/ibm-developer-skills-network/final-cloud-app-with-database/blob/master/static/media/course_images/onlinecourse_app_er.png)
 
-https://github.com/thuantv503/course-management/assets/144916667/ab75eaa6-8a0f-4e02-ab4b-fa615405caa9
+VIDEO DEMO: https://drive.google.com/file/d/1PFPGbgKGcVMxVFjEBKgIiKHge6UPKYR8/view?usp=sharing
